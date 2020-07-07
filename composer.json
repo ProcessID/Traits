@@ -1,0 +1,7 @@
+{
+    "name": "ProcessID/Traits",
+    "description": "Traits for ProcessID framework",
+    "require": {
+        "php": "^5.3"
+    }
+}
