@@ -1,4 +1,6 @@
 <?php
+   namespace processid\traits;
+   
    trait Hydrate {
       
       protected function hydrate(array $donnees) {
